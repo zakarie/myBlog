@@ -1,5 +1,5 @@
 ---
-title: "About tME"
+title: "About Me"
 description: |
 ---
 
@@ -8,3 +8,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ![](myphoto.jpg)
+
+My name is Zakarie Hashi, Master degree holder in applied statistics and advacned analytics. I play with data to reveal interesting patterns and help businesses get the insights they need. I have deep interest in deep learning, machine learning in the healthcare and life science applications.
