@@ -1,18 +1,18 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "My first post",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/08-29-2020-Iris-Visualization/",
+    "title": "Informative Visualization using Iris Data",
+    "description": "**Data visualization** is a crucial step in data science and data understanding. in this short article, I will demonstrate how powerful visualization can be in answersing some critical questions.",
     "author": [
       {
-        "name": "Zakarie Hashi",
+        "name": "Zakarie Hashi, MS In Applied Statistics",
         "url": "https://zakarie.github.io/myBlog/"
       }
     ],
     "date": "2020-08-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-28T22:05:25-05:00",
+    "last_modified": "2020-08-29T02:21:37-05:00",
     "input_file": {}
   }
 ]

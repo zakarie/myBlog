@@ -1,0 +1,53 @@
+---
+title: "Informative Visualization using Iris Data"
+description: |
+  **Data visualization** is a crucial step in data science and data understanding. in this short article, I will demonstrate how powerful visualization can be in answersing some critical questions. 
+author:
+  - name: Zakarie Hashi, MS In Applied Statistics 
+    url: https://zakarie.github.io/myBlog/
+    affiliation: Westtern Michigan University
+    affiliation_url: https://wmich.edu
+date: 08-28-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  warning = F,
+  message = F,
+  comment = "##",
+  R.options = list(width = 60)
+)
+```
+
+
+## Loading Required libraries
+These are the libraries we will need. R libraries do a lot of functionalities. some help us ploting and some to do data manipulation. 
+
+```{r}
+library(devtools)
+#devtools::install_github("ggobi/ggally")
+#devtools::install_github("hrbrmstr/hrbrthemes")
+# devtools::install_github("hrbrmstr/pluralize")
+# devtools::install_github("kassambara/ggpubr")
+library(tidyverse)
+library(grid)
+library(rvest)
+library(stringi)
+library(hrbrthemes)
+library(ggthemes)
+library(ggpubr)
+```
+
+
+## input data
+Since we are working with iris data. its pre-buil data set in R so automatically its loaded for you. 
+
+```{r}
+iris.raw <- iris
+head(iris, n=5)
+```
+
