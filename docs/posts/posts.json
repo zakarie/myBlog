@@ -2,7 +2,7 @@
   {
     "path": "posts/08-29-2020-Iris-Visualization/",
     "title": "Informative Visualization using Iris Data",
-    "description": "**Data visualization** is a crucial step in data science and data understanding. in this short article, I will demonstrate how powerful visualization can be in answersing some critical questions.",
+    "description": "Data visualization is a crucial step in data science and data understanding. in this short article, I will demonstrate how powerful visualization can be in answersing some critical questions. \n\n(---not complete yet)",
     "author": [
       {
         "name": "Zakarie Hashi, MS In Applied Statistics",
@@ -12,7 +12,7 @@
     "date": "2020-08-28",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-29T02:21:37-05:00",
+    "last_modified": "2020-08-29T13:09:20-05:00",
     "input_file": {}
   }
 ]
